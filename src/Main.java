@@ -7,8 +7,11 @@ public class Main {
         // 1. Declare an integer variable (whole number)
         int number = 10;
 
-        // 2. Declare a double variable (decimal number)
+        // 2. Declare a float variable (decimal number)
         float number2 = 10.5f;
+
+        // 2.1 Declare a double variable
+        double number3 = 10.5;
 
         // 3. Declare a boolean variable (true or false)
         boolean isHere = true;
@@ -22,6 +25,7 @@ public class Main {
         // Print all the variables:
         System.out.println(number);
         System.out.println(number2);
+        System.out.println(number3);
         System.out.println(isHere);
         System.out.println(firstLetter);
         System.out.println(name);
