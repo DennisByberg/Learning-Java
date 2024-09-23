@@ -1,4 +1,4 @@
-package exercises;
+package types;
 
 public class PrimitiveTypes {
     public static void getPrimitiveTypesExercise() {

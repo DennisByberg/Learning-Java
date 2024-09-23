@@ -1,4 +1,4 @@
-package exercises;
+package types;
 
 public class Variables {
     public static void getVariablesExercise() {
