@@ -1,6 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-        Variables();
+        // Variables();
+        PrimitiveTypes();
     }
 
     private static void Variables() {
@@ -29,5 +30,17 @@ public class Main {
         System.out.println(isHere);
         System.out.println(firstLetter);
         System.out.println(name);
+    }
+
+    private static void PrimitiveTypes() {
+        // Declare a variable of each primitive type (int, float, double, boolean, char, byte, short, long),
+        int a = 300_000;
+        float b = 137.1f;
+        double c = 138.1;
+        boolean d = true;
+        char e = 'A';
+        byte f = 10;
+        short g = 3000;
+        long h = 3_000_000;
     }
 }
